@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_9d0ea3cb11be294",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chromatic": "^18.1.0"
+    "@storybook/html-vite": "^10.5.7",
+    "chromatic": "^18.1.0",
+    "storybook": "^10.5.7"
   }
 }
