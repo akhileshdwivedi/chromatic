@@ -18,6 +18,5 @@ jobs:
         uses: chromaui/action@latest
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-      - name Log Chromatic Exit Code
-        run: |
-          echo "Chromatic exit code is: ${{ steps.chromatic-step.outputs.code }}"
+      - name: Log Chromatic Exit Code
+        run: echo "Chromatic exit code is: ${{ steps.chromatic-step.outputs.code }}"
