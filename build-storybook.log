@@ -1,12 +1,12 @@
 
 > chromatic@1.0.0 build-storybook
-> storybook build --output-dir=/private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL
+> storybook build --output-dir=/private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21
 
 
 [90m┌[39m  Building storybook v10.5.7
 [90m│[39m
 [32m◇[39m  Cleaning outputDir:
-[90m│[39m  [36m../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL[39m
+[90m│[39m  [36m../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21[39m
 [90m│[39m
 [32m◇[39m  Loading presets
 [90m│[39m
@@ -20,16 +20,16 @@
 rendering chunks...
 computing gzip size...
 [90m│[39m  [43mVite[49m
-[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL/iframe.html
+[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21/iframe.html
 [90m│[39m  18.65 kB │ gzip:   5.19 kB
-[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL/assets/rolldown-runtime-Dh6celcD.js
+[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21/assets/rolldown-runtime-Dh6celcD.js
 [90m│[39m  0.62 kB │ gzip:   0.41 kB
-[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL/assets/button.stories-CRi5kCbY.js
+[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21/assets/button.stories-Dkc2bTaf.js
 [90m│[39m  1.17 kB │ gzip:   0.54 kB
-[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL/assets/iframe-BrsU9DkF.js
+[90m│[39m  ../../../../../private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21/assets/iframe-BHLAeaGw.js
 [90m│[39m  856.16 kB │ gzip: 239.51 kB
 
-[90m│[39m  [43mVite[49m [32m✓ built in 268ms[39m
+[90m│[39m  [43mVite[49m [32m✓ built in 274ms[39m
 [90m│[39m
 [33m▲[39m  [43mVite[49m [33m[plugin builtin:vite-reporter]
 [90m│[39m  (!) Some chunks are larger than 500 kB after minification. Consider:
@@ -40,7 +40,7 @@ computing gzip size...
 [90m│[39m  build.chunkSizeWarningLimit.[39m
 [90m│[39m
 [32m◇[39m  Output directory:
-[90m│[39m  /private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--38969-Hr2cHkh0gMUL
+[90m│[39m  /private/var/folders/80/f_1fpxtn2pv7glckmn9vs7r80000gn/T/chromatic--39289-b3a7xat6wO21
 [90m│[39m
 [90m└[39m  Storybook build completed successfully
 
