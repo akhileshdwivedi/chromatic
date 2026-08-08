@@ -21,13 +21,13 @@ export default {
 
 export const Primary = {
   args: {
-    label: 'Primary button Akhilesh Dwivedi',
+    label: 'Primary button Akhilesh Dwivedi feature branch',
     primary: true,
   },
 };
 
 export const Secondary = {
   args: {
-    label: 'Secondary button Swati Dwivedi',
+    label: 'Secondary button Swati Dwivedi feature branch',
   },
 };
