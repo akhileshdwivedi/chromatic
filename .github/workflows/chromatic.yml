@@ -19,4 +19,5 @@ jobs:
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
       - name: Log Chromatic Exit Code
-        run: echo "Chromatic exit code is: ${{ steps.chromatic-step.outputs.code }}"
+        run: |
+          echo "Chromatic exit code is: ${{ steps.chromatic-step.outputs.code }}"
